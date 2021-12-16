@@ -1,0 +1,5 @@
+2020003	ParkSooHo	49.5
+2020202	YooSangBong	93.4
+2020038	ChoiGongWoo	65.4
+2020022	ChoWooSeok	84.3
+2020120	KimHyunDae	82.5

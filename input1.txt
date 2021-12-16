@@ -1,0 +1,10 @@
+level
+2002
+2020
+20102
+japan
+abc cba
+abcdeba
+a'bc cb'a
+palindrome
+Able was I ere I saw Elba
